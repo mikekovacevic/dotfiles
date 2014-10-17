@@ -1,21 +1,21 @@
 # Python
-install python
-install python3
+brew 'python'
+brew 'python3'
 
 # MySQL
-install mysql
+brew 'mysql'
 
 # Nginx
-install nginx
+brew 'nginx'
 
 # PostgreSQL
-install postgresql
+brew 'postgresql'
 
 # Redis
-install redis
+brew 'redis'
 
 # Misc
-install git
-install imagemagick
-install tmux
-install wget
+brew 'git'
+brew 'imagemagick'
+brew 'tmux'
+brew 'wget'
